@@ -5,7 +5,7 @@
 
 
 
-I've been learning code since I've decided that I want to be an amazing developer. 
+🌱 I've been learning code since I've decided that I want to be an amazing developer. 
 
 
 🔭 I’m working on frontend React development (JavaScript | React | Typescript)
