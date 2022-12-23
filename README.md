@@ -1,22 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Ramazan Özbuganli</h1>
-<h3 align="center">Junior Front-End Developer | React Developer</h3>
+<h3 align="center"> Front-End Developer | React Developer</h3>
 
 
 
 I've been learning code since I've decided that I want to be an amazing developer. 
 
 
-💻 Frontend
-html css js react react-dom redux bootstrap material-ui semantic-ui
-
-
-
+🔭 I’m working on frontend React development (JavaScript | React | Typescript)
 
 🌍  I'm based in Istanbul/Turkey
-
-🔭 I’m working on frontend React development (JavaScript | React | Typescript)
 
 ✉️  You can contact me at ozbuganliramazan@gmail.com
 
