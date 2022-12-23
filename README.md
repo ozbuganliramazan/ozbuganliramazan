@@ -22,7 +22,6 @@ Hi, i'm Ramazan Özbuğanlı,
 
 🤝  I'm open to collaborating on interesting projects and startups.
 
-⚡  Ready to rock in code! :)
 
 
 
