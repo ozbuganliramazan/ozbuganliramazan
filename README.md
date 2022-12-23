@@ -20,8 +20,6 @@ Hi, i'm Ramazan Özbuğanlı,
 
 🚀  I'm currently open for work as a Freelancer
 
-🧠  I'm learning React
-
 🤝  I'm open to collaborating on interesting projects and startups.
 
 ⚡  Ready to rock in code! :)
