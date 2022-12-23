@@ -14,13 +14,12 @@ Hi, i'm Ramazan Özbuğanlı,
 
 🔭 I’m working on frontend React development (JavaScript | React | Typescript)
 
+🤝 I'm currently open for work as a Freelancer.I'm open to collaborating on interesting projects and startups.
+
 🌍  I'm based in Istanbul/Turkey
 
 ✉️  You can contact me at ozbuganliramazan@gmail.com
 
-🚀  I'm currently open for work as a Freelancer
-
-🤝  I'm open to collaborating on interesting projects and startups.
 
 
 
