@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ramazan Özbuganli</h1>
 <h3 align="center">Junior Front-End Developer | React Developer</h3>
 
-I've been learning code since I've decided that I want to be an amazing developer. I am planning to switch my career to Junior Front-End Developer.
+I've been learning code since I've decided that I want to be an amazing developer. 
+
+I am planning to switch my career to Junior Front-End Developer.
 
 
 🌍  I'm based in Istanbul/Turkey
