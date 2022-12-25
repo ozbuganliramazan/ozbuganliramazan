@@ -33,7 +33,7 @@
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://twitter.com/@ramazan59091049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ramazan59091049" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramazan-%c3%b6zbu%c4%9fanl%c4%b1-251372259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramazan-%c3%b6zbu%c4%9fanl%c4%b1-251372259" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ramazan-özbuğanlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramazan-özbuğanlı" height="30" width="40" /></a>
 <a href="https://instagram.com/@ramazanozbgnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ramazanozbgnl" height="30" width="40" /></a>
 </p>
 
