@@ -21,7 +21,7 @@
 
 🌍  I'm based in Istanbul/Turkey
 
-✉️  You can contact me at ozbuganliramazan@gmail.com
+✉️  You can contact me at ozbuganliramazan@outlook.com
 
 
 
