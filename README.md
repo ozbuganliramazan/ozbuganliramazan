@@ -15,7 +15,7 @@
 
 
 
-🔭 I’m working on frontend React development (JavaScript | React | Typescript)
+🔭 I’m working on frontend React,React Native development (JavaScript | React | React Native | Typescript)
 
 🤝 I'm currently open for work as a Freelancer.I'm open to collaborating on interesting projects and startups.
 
